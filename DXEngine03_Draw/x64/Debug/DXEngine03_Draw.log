@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (DXEngine02_DXSetup.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  compilation object save succeeded; see C:\DX_project\DXEngine\x64\Debug\PS.cso
+  compilation object save succeeded; see C:\DX_project\DXEngine\x64\Debug\VS.cso
+  AppWindow.cpp
+  DXApp.cpp
+  DXUtil.cpp
+  Engine.cpp
+  MainApp.cpp
+  Mesh.cpp
+  PixelShader.cpp
+  Shader.cpp
+  VertexShader.cpp
+  코드를 생성하고 있습니다...
+  DXEngine03_Draw.vcxproj -> C:\DX_project\DXEngine\x64\Debug\DXEngine03_Draw.exe
